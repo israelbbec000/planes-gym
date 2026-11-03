@@ -50,10 +50,12 @@ if (flags.stills) {
   process.exit(0);
 }
 
-const mudo = path.join(dir, 'video_mudo.mp4');
+const mudo = path.join(dir, flags.tercio ? 'video_mudo_tercio.mp4' : 'video_mudo.mp4');
+// --tercio: renderiza solo el primer tercio (vista previa rápida)
+const frameRange = flags.tercio ? [0, Math.ceil(composition.durationInFrames / 3) - 1] : null;
 let ultimo = -1;
 await renderMedia({
-  composition, serveUrl, inputProps, codec: 'h264', outputLocation: mudo, crf: cfg.render.crf, scale: escala,
+  composition, serveUrl, inputProps, ...(frameRange ? {frameRange} : {}), codec: 'h264', outputLocation: mudo, crf: cfg.render.crf, scale: escala,
   imageFormat: 'jpeg', jpegQuality: 92, pixelFormat: 'yuv420p', muted: true,
   ...(cfg.render.concurrencia ? {concurrency: cfg.render.concurrencia} : {}),
   onProgress: ({progress}) => { const p = Math.floor(progress * 20); if (p !== ultimo) { ultimo = p; process.stdout.write(`\r  render ${p * 5}%   `); } },
@@ -62,7 +64,7 @@ await renderMedia({
 console.log('\n✔ video_mudo.mp4');
 
 const audio = path.join(dir, 'audio_final.m4a');
-if (fs.existsSync(audio) && escala === 1) {
+if (fs.existsSync(audio) && escala === 1 && !flags.tercio) {
   const final = path.join(dir, 'final.mp4');
   ejecutar('ffmpeg', ['-y', '-loglevel', 'error', '-i', mudo, '-i', audio, '-map', '0:v:0', '-map', '1:a:0', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-ar', '44100', '-movflags', '+faststart', '-shortest', final]);
   console.log('✔ final.mp4');
