@@ -1,0 +1,872 @@
+{
+  "version": 1,
+  "titulo": "¿Y si tu tamaño se duplicara cada día?",
+  "tema": "Ley del cuadrado-cubo y crecimiento exponencial",
+  "frases": [
+    {
+      "id": 1,
+      "texto": "Mañana vas a medir el doble.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.18,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "pop"
+      ],
+      "claves": [
+        "doble"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 2,
+      "texto": "¿Y pasado mañana? Otra vez el doble.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "grita",
+          "escala": 1.12,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.05,
+        "hasta": 1.22,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "whoosh"
+      ],
+      "claves": [
+        {
+          "texto": "doble",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 3,
+      "texto": "Esto pasaría si tu tamaño se duplicara cada día.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "saluda",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -50,
+        "hasta": 40,
+        "zoom": 1.14
+      },
+      "sfx": [
+        "tick"
+      ],
+      "claves": [
+        "duplicara"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 4,
+      "texto": "Día uno: mides tres metros y medio, y ya no cabes por la puerta.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 1.4,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.12,
+        "foco": [
+          540,
+          900
+        ]
+      },
+      "sfx": [
+        "boom"
+      ],
+      "claves": [
+        "tres",
+        "metros",
+        {
+          "texto": "puerta",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 5,
+      "texto": "Tu abuela te ve y grita: ¡mijo, te estiraste!",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "abuela",
+          "pos": "izq",
+          "accion": "grita",
+          "escala": 1.0,
+          "habla": true
+        },
+        {
+          "id": "protagonista",
+          "pos": "der",
+          "accion": "idle",
+          "escala": 1.4,
+          "habla": false
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": 40,
+        "hasta": -40,
+        "zoom": 1.14
+      },
+      "sfx": [
+        "pop"
+      ],
+      "claves": [
+        "abuela"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 6,
+      "texto": "Pero hay un problema.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "piensa",
+          "escala": 1.4,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.25,
+        "foco": [
+          540,
+          700
+        ]
+      },
+      "sfx": [
+        "tick"
+      ],
+      "claves": [
+        {
+          "texto": "problema",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 7,
+      "texto": "Si duplicas tu altura, no pesas el doble.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "senala",
+          "escala": 1.2,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.1,
+        "hasta": 1.0
+      },
+      "sfx": [],
+      "claves": [
+        "no",
+        "doble"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 8,
+      "texto": "Pesas ocho veces más.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 1.2,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.2,
+        "foco": [
+          540,
+          800
+        ]
+      },
+      "sfx": [
+        "boom"
+      ],
+      "claves": [
+        {
+          "texto": "ocho",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 9,
+      "texto": "Tus huesos solo se hacen cuatro veces más fuertes.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "piensa",
+          "escala": 0.42,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.04
+      },
+      "sfx": [
+        "ding"
+      ],
+      "claves": [
+        "cuatro"
+      ],
+      "grafica": {
+        "tipo": "barras",
+        "titulo": "Al duplicar tu altura…",
+        "etiquetas": [
+          "Peso",
+          "Huesos"
+        ],
+        "valores": [
+          8,
+          4
+        ],
+        "textos": [
+          "×8",
+          "×4"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "texto": "Es la ley del cuadrado cubo, descrita por Galileo hace casi cuatrocientos años.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "piensa",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -40,
+        "hasta": 50,
+        "zoom": 1.14
+      },
+      "sfx": [],
+      "claves": [
+        "Galileo"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 11,
+      "texto": "Día tres: catorce metros, como un edificio de cuatro pisos.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.25,
+        "hasta": 1.0,
+        "foco": [
+          540,
+          1000
+        ]
+      },
+      "sfx": [
+        "whoosh",
+        "boom"
+      ],
+      "claves": [
+        "catorce",
+        "metros"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 12,
+      "texto": "Y tus piernas ya no aguantan tanto peso.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "cae",
+          "escala": 0.9,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.1,
+        "foco": [
+          300,
+          1100
+        ]
+      },
+      "sfx": [
+        "crack"
+      ],
+      "claves": [
+        {
+          "texto": "no",
+          "color": "rojo"
+        },
+        "aguantan"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 13,
+      "texto": "Según la física, aquí te caes y se acaba el video.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "caido",
+          "escala": 0.9,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -30,
+        "hasta": 30,
+        "zoom": 1.1
+      },
+      "sfx": [
+        "trombon"
+      ],
+      "claves": [
+        "física"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 14,
+      "texto": "Pero vamos a fingir que tus huesos son de acero.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "feliz",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.15,
+        "foco": [
+          540,
+          1000
+        ]
+      },
+      "sfx": [
+        "tada"
+      ],
+      "claves": [
+        "acero"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 15,
+      "texto": "Día cinco: cincuenta y cuatro metros.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "saluda",
+          "escala": 1.7,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.1,
+        "foco": [
+          540,
+          1100
+        ]
+      },
+      "sfx": [
+        "whoosh"
+      ],
+      "claves": [
+        "cincuenta",
+        "cuatro"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 16,
+      "texto": "Ya superas a la Estatua de la Libertad, sin contar su base.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "senala",
+          "escala": 1.7,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": 60,
+        "hasta": -60,
+        "zoom": 1.18
+      },
+      "sfx": [],
+      "claves": [
+        "Estatua",
+        "Libertad"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 17,
+      "texto": "Día ocho: cuatrocientos treinta y cinco metros. Ya pasaste la Torre Eiffel.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "feliz",
+          "escala": 2.3,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.12,
+        "hasta": 1.0,
+        "foco": [
+          540,
+          1100
+        ]
+      },
+      "sfx": [
+        "zoom",
+        "ding"
+      ],
+      "claves": [
+        "Torre",
+        "Eiffel"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 18,
+      "texto": "Día nueve: ochocientos setenta metros, más alto que el Burj Khalifa.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 3.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.1,
+        "foco": [
+          540,
+          1200
+        ]
+      },
+      "sfx": [
+        "boom"
+      ],
+      "claves": [
+        "Burj",
+        "Khalifa"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 19,
+      "texto": "Así se dispara: cada barra es el doble de la anterior.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "der",
+          "accion": "senala",
+          "escala": 0.42,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.05
+      },
+      "sfx": [
+        "pop"
+      ],
+      "claves": [
+        "doble"
+      ],
+      "grafica": {
+        "tipo": "barras",
+        "titulo": "Altura por día (metros)",
+        "etiquetas": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "valores": [
+          3.4,
+          6.8,
+          13.6,
+          27.2,
+          54.4,
+          108.8,
+          217.6
+        ],
+        "textos": [
+          "3,4",
+          "7",
+          "14",
+          "27",
+          "54",
+          "109",
+          "218"
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "texto": "Día trece: catorce kilómetros. Ya pasaste el Everest y los aviones.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "grita",
+          "escala": 3.6,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -70,
+        "hasta": 70,
+        "zoom": 1.2
+      },
+      "sfx": [
+        "whoosh",
+        "boom"
+      ],
+      "claves": [
+        "kilómetros",
+        "Everest"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 21,
+      "texto": "Día veintitrés: ya eres más grande que la Tierra entera.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "sorpresa",
+          "escala": 2.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.3,
+        "hasta": 1.0,
+        "foco": [
+          540,
+          1000
+        ]
+      },
+      "sfx": [
+        "zoom",
+        "tada"
+      ],
+      "claves": [
+        {
+          "texto": "Tierra",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 22,
+      "texto": "Día veintiocho: tu cabeza pasa la Luna.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "feliz",
+          "escala": 2.3,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": 60,
+        "hasta": -60,
+        "zoom": 1.14
+      },
+      "sfx": [
+        "ding"
+      ],
+      "claves": [
+        "Luna"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 23,
+      "texto": "Día treinta: casi dos millones de kilómetros. Eres más grande que el Sol.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "grita",
+          "escala": 2.6,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.15,
+        "foco": [
+          540,
+          900
+        ]
+      },
+      "sfx": [
+        "boom"
+      ],
+      "claves": [
+        "millones",
+        {
+          "texto": "Sol",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 24,
+      "texto": "Crecimiento exponencial: más de mil millones de veces más grande.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "der",
+          "accion": "senala",
+          "escala": 1.2,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -40,
+        "hasta": 40,
+        "zoom": 1.12
+      },
+      "sfx": [
+        "campana"
+      ],
+      "claves": [
+        "exponencial",
+        "mil",
+        "millones"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 25,
+      "texto": "Aun así, tu abuela seguiría gritando desde su cocina:",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "abuela",
+          "pos": "centro",
+          "accion": "idle",
+          "escala": 1.0,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.0,
+        "hasta": 1.2,
+        "foco": [
+          540,
+          800
+        ]
+      },
+      "sfx": [
+        "whoosh"
+      ],
+      "claves": [
+        "abuela"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 26,
+      "texto": "¡Mijo, baja ya a cenar!",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "abuela",
+          "pos": "centro",
+          "accion": "grita",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.15,
+        "hasta": 1.3,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "trombon"
+      ],
+      "claves": [
+        {
+          "texto": "cenar",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 27,
+      "texto": "Cuéntame en los comentarios qué pregunta imposible sigue.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "izq",
+          "accion": "saluda",
+          "escala": 1.0,
+          "habla": true
+        },
+        {
+          "id": "abuela",
+          "pos": "der",
+          "accion": "feliz",
+          "escala": 1.0,
+          "habla": false
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": 30,
+        "hasta": -30,
+        "zoom": 1.14
+      },
+      "sfx": [
+        "pop"
+      ],
+      "claves": [
+        "comentarios"
+      ],
+      "grafica": null
+    }
+  ]
+}

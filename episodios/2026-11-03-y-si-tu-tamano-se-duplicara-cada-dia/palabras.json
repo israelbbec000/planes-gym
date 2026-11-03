@@ -1,0 +1,1241 @@
+{
+ "fuente": "estimado",
+ "modelo": null,
+ "palabras": [
+  {
+   "texto": "Mañana",
+   "inicio": 0.0,
+   "fin": 0.364
+  },
+  {
+   "texto": "vas",
+   "inicio": 0.395,
+   "fin": 0.614
+  },
+  {
+   "texto": "a",
+   "inicio": 0.633,
+   "fin": 0.754
+  },
+  {
+   "texto": "medir",
+   "inicio": 0.764,
+   "fin": 1.08
+  },
+  {
+   "texto": "el",
+   "inicio": 1.107,
+   "fin": 1.277
+  },
+  {
+   "texto": "doble.",
+   "inicio": 1.292,
+   "fin": 1.857
+  },
+  {
+   "texto": "¿Y",
+   "inicio": 1.884,
+   "fin": 2.006
+  },
+  {
+   "texto": "pasado",
+   "inicio": 2.016,
+   "fin": 2.38
+  },
+  {
+   "texto": "mañana?",
+   "inicio": 2.412,
+   "fin": 2.775
+  },
+  {
+   "texto": "Otra",
+   "inicio": 2.807,
+   "fin": 3.324
+  },
+  {
+   "texto": "vez",
+   "inicio": 3.347,
+   "fin": 3.565
+  },
+  {
+   "texto": "el",
+   "inicio": 3.584,
+   "fin": 3.754
+  },
+  {
+   "texto": "doble.",
+   "inicio": 3.769,
+   "fin": 4.334
+  },
+  {
+   "texto": "Esto",
+   "inicio": 4.361,
+   "fin": 4.628
+  },
+  {
+   "texto": "pasaría",
+   "inicio": 4.651,
+   "fin": 5.064
+  },
+  {
+   "texto": "si",
+   "inicio": 5.099,
+   "fin": 5.269
+  },
+  {
+   "texto": "tu",
+   "inicio": 5.284,
+   "fin": 5.454
+  },
+  {
+   "texto": "tamaño",
+   "inicio": 5.468,
+   "fin": 5.832
+  },
+  {
+   "texto": "se",
+   "inicio": 5.864,
+   "fin": 6.034
+  },
+  {
+   "texto": "duplicara",
+   "inicio": 6.048,
+   "fin": 6.558
+  },
+  {
+   "texto": "cada",
+   "inicio": 6.602,
+   "fin": 6.869
+  },
+  {
+   "texto": "día.",
+   "inicio": 6.892,
+   "fin": 7.37
+  },
+  {
+   "texto": "Día",
+   "inicio": 7.389,
+   "fin": 7.607
+  },
+  {
+   "texto": "uno:",
+   "inicio": 7.626,
+   "fin": 8.035
+  },
+  {
+   "texto": "mides",
+   "inicio": 8.054,
+   "fin": 8.369
+  },
+  {
+   "texto": "tres",
+   "inicio": 8.396,
+   "fin": 8.663
+  },
+  {
+   "texto": "metros",
+   "inicio": 8.686,
+   "fin": 9.05
+  },
+  {
+   "texto": "y",
+   "inicio": 9.082,
+   "fin": 9.203
+  },
+  {
+   "texto": "medio,",
+   "inicio": 9.213,
+   "fin": 9.529
+  },
+  {
+   "texto": "y",
+   "inicio": 9.556,
+   "fin": 9.677
+  },
+  {
+   "texto": "ya",
+   "inicio": 9.688,
+   "fin": 9.858
+  },
+  {
+   "texto": "no",
+   "inicio": 9.872,
+   "fin": 10.042
+  },
+  {
+   "texto": "cabes",
+   "inicio": 10.057,
+   "fin": 10.372
+  },
+  {
+   "texto": "por",
+   "inicio": 10.4,
+   "fin": 10.618
+  },
+  {
+   "texto": "la",
+   "inicio": 10.637,
+   "fin": 10.807
+  },
+  {
+   "texto": "puerta.",
+   "inicio": 10.821,
+   "fin": 11.185
+  },
+  {
+   "texto": "Tu",
+   "inicio": 11.217,
+   "fin": 11.677
+  },
+  {
+   "texto": "abuela",
+   "inicio": 11.691,
+   "fin": 12.055
+  },
+  {
+   "texto": "te",
+   "inicio": 12.087,
+   "fin": 12.256
+  },
+  {
+   "texto": "ve",
+   "inicio": 12.271,
+   "fin": 12.441
+  },
+  {
+   "texto": "y",
+   "inicio": 12.456,
+   "fin": 12.577
+  },
+  {
+   "texto": "grita:",
+   "inicio": 12.588,
+   "fin": 13.133
+  },
+  {
+   "texto": "¡mijo,",
+   "inicio": 13.16,
+   "fin": 13.427
+  },
+  {
+   "texto": "te",
+   "inicio": 13.63,
+   "fin": 13.8
+  },
+  {
+   "texto": "estiraste!",
+   "inicio": 13.815,
+   "fin": 14.644
+  },
+  {
+   "texto": "Pero",
+   "inicio": 14.688,
+   "fin": 14.955
+  },
+  {
+   "texto": "hay",
+   "inicio": 14.978,
+   "fin": 15.196
+  },
+  {
+   "texto": "un",
+   "inicio": 15.215,
+   "fin": 15.385
+  },
+  {
+   "texto": "problema.",
+   "inicio": 15.4,
+   "fin": 16.121
+  },
+  {
+   "texto": "Si",
+   "inicio": 16.161,
+   "fin": 16.331
+  },
+  {
+   "texto": "duplicas",
+   "inicio": 16.345,
+   "fin": 16.806
+  },
+  {
+   "texto": "tu",
+   "inicio": 16.846,
+   "fin": 17.016
+  },
+  {
+   "texto": "altura,",
+   "inicio": 17.031,
+   "fin": 17.394
+  },
+  {
+   "texto": "no",
+   "inicio": 17.426,
+   "fin": 17.596
+  },
+  {
+   "texto": "pesas",
+   "inicio": 17.611,
+   "fin": 17.926
+  },
+  {
+   "texto": "el",
+   "inicio": 17.953,
+   "fin": 18.123
+  },
+  {
+   "texto": "doble.",
+   "inicio": 18.138,
+   "fin": 18.753
+  },
+  {
+   "texto": "Pesas",
+   "inicio": 18.78,
+   "fin": 19.096
+  },
+  {
+   "texto": "ocho",
+   "inicio": 19.123,
+   "fin": 19.39
+  },
+  {
+   "texto": "veces",
+   "inicio": 19.413,
+   "fin": 19.728
+  },
+  {
+   "texto": "más.",
+   "inicio": 19.756,
+   "fin": 20.264
+  },
+  {
+   "texto": "Tus",
+   "inicio": 20.283,
+   "fin": 20.501
+  },
+  {
+   "texto": "huesos",
+   "inicio": 20.52,
+   "fin": 20.884
+  },
+  {
+   "texto": "solo",
+   "inicio": 20.916,
+   "fin": 21.182
+  },
+  {
+   "texto": "se",
+   "inicio": 21.206,
+   "fin": 21.375
+  },
+  {
+   "texto": "hacen",
+   "inicio": 21.39,
+   "fin": 21.705
+  },
+  {
+   "texto": "cuatro",
+   "inicio": 21.733,
+   "fin": 22.097
+  },
+  {
+   "texto": "veces",
+   "inicio": 22.128,
+   "fin": 22.443
+  },
+  {
+   "texto": "más",
+   "inicio": 22.471,
+   "fin": 22.689
+  },
+  {
+   "texto": "fuertes.",
+   "inicio": 22.708,
+   "fin": 23.12
+  },
+  {
+   "texto": "Es",
+   "inicio": 23.156,
+   "fin": 23.586
+  },
+  {
+   "texto": "la",
+   "inicio": 23.601,
+   "fin": 23.771
+  },
+  {
+   "texto": "ley",
+   "inicio": 23.785,
+   "fin": 24.004
+  },
+  {
+   "texto": "del",
+   "inicio": 24.023,
+   "fin": 24.241
+  },
+  {
+   "texto": "cuadrado",
+   "inicio": 24.26,
+   "fin": 24.721
+  },
+  {
+   "texto": "cubo,",
+   "inicio": 24.761,
+   "fin": 25.027
+  },
+  {
+   "texto": "descrita",
+   "inicio": 25.051,
+   "fin": 25.511
+  },
+  {
+   "texto": "por",
+   "inicio": 25.551,
+   "fin": 25.77
+  },
+  {
+   "texto": "Galileo",
+   "inicio": 25.789,
+   "fin": 26.201
+  },
+  {
+   "texto": "hace",
+   "inicio": 26.237,
+   "fin": 26.503
+  },
+  {
+   "texto": "casi",
+   "inicio": 26.527,
+   "fin": 26.793
+  },
+  {
+   "texto": "cuatrocientos",
+   "inicio": 26.817,
+   "fin": 27.52
+  },
+  {
+   "texto": "años.",
+   "inicio": 27.581,
+   "fin": 27.848
+  },
+  {
+   "texto": "Día",
+   "inicio": 27.871,
+   "fin": 28.359
+  },
+  {
+   "texto": "tres:",
+   "inicio": 28.378,
+   "fin": 28.645
+  },
+  {
+   "texto": "catorce",
+   "inicio": 28.668,
+   "fin": 29.311
+  },
+  {
+   "texto": "metros,",
+   "inicio": 29.346,
+   "fin": 29.71
+  },
+  {
+   "texto": "como",
+   "inicio": 29.742,
+   "fin": 30.189
+  },
+  {
+   "texto": "un",
+   "inicio": 30.212,
+   "fin": 30.381
+  },
+  {
+   "texto": "edificio",
+   "inicio": 30.396,
+   "fin": 30.857
+  },
+  {
+   "texto": "de",
+   "inicio": 30.897,
+   "fin": 31.067
+  },
+  {
+   "texto": "cuatro",
+   "inicio": 31.082,
+   "fin": 31.445
+  },
+  {
+   "texto": "pisos.",
+   "inicio": 31.477,
+   "fin": 31.792
+  },
+  {
+   "texto": "Y",
+   "inicio": 31.82,
+   "fin": 31.941
+  },
+  {
+   "texto": "tus",
+   "inicio": 31.951,
+   "fin": 32.45
+  },
+  {
+   "texto": "piernas",
+   "inicio": 32.469,
+   "fin": 32.881
+  },
+  {
+   "texto": "ya",
+   "inicio": 32.917,
+   "fin": 33.087
+  },
+  {
+   "texto": "no",
+   "inicio": 33.101,
+   "fin": 33.271
+  },
+  {
+   "texto": "aguantan",
+   "inicio": 33.286,
+   "fin": 33.747
+  },
+  {
+   "texto": "tanto",
+   "inicio": 33.787,
+   "fin": 34.102
+  },
+  {
+   "texto": "peso.",
+   "inicio": 34.129,
+   "fin": 34.396
+  },
+  {
+   "texto": "Según",
+   "inicio": 34.419,
+   "fin": 34.735
+  },
+  {
+   "texto": "la",
+   "inicio": 35.062,
+   "fin": 35.232
+  },
+  {
+   "texto": "física,",
+   "inicio": 35.247,
+   "fin": 35.61
+  },
+  {
+   "texto": "aquí",
+   "inicio": 35.642,
+   "fin": 35.909
+  },
+  {
+   "texto": "te",
+   "inicio": 35.932,
+   "fin": 36.102
+  },
+  {
+   "texto": "caes",
+   "inicio": 36.116,
+   "fin": 36.383
+  },
+  {
+   "texto": "y",
+   "inicio": 36.406,
+   "fin": 36.528
+  },
+  {
+   "texto": "se",
+   "inicio": 36.538,
+   "fin": 36.708
+  },
+  {
+   "texto": "acaba",
+   "inicio": 36.723,
+   "fin": 37.038
+  },
+  {
+   "texto": "el",
+   "inicio": 37.065,
+   "fin": 37.235
+  },
+  {
+   "texto": "video.",
+   "inicio": 37.25,
+   "fin": 37.565
+  },
+  {
+   "texto": "Pero",
+   "inicio": 37.593,
+   "fin": 37.859
+  },
+  {
+   "texto": "vamos",
+   "inicio": 37.883,
+   "fin": 38.508
+  },
+  {
+   "texto": "a",
+   "inicio": 38.535,
+   "fin": 38.656
+  },
+  {
+   "texto": "fingir",
+   "inicio": 38.667,
+   "fin": 39.031
+  },
+  {
+   "texto": "que",
+   "inicio": 39.062,
+   "fin": 39.281
+  },
+  {
+   "texto": "tus",
+   "inicio": 39.3,
+   "fin": 39.518
+  },
+  {
+   "texto": "huesos",
+   "inicio": 39.537,
+   "fin": 39.901
+  },
+  {
+   "texto": "son",
+   "inicio": 39.932,
+   "fin": 40.151
+  },
+  {
+   "texto": "de",
+   "inicio": 40.17,
+   "fin": 40.339
+  },
+  {
+   "texto": "acero.",
+   "inicio": 40.354,
+   "fin": 40.669
+  },
+  {
+   "texto": "Día",
+   "inicio": 40.697,
+   "fin": 40.915
+  },
+  {
+   "texto": "cinco:",
+   "inicio": 40.934,
+   "fin": 41.519
+  },
+  {
+   "texto": "cincuenta",
+   "inicio": 41.547,
+   "fin": 42.266
+  },
+  {
+   "texto": "y",
+   "inicio": 42.31,
+   "fin": 42.431
+  },
+  {
+   "texto": "cuatro",
+   "inicio": 42.442,
+   "fin": 42.806
+  },
+  {
+   "texto": "metros.",
+   "inicio": 42.837,
+   "fin": 43.201
+  },
+  {
+   "texto": "Ya",
+   "inicio": 43.233,
+   "fin": 43.403
+  },
+  {
+   "texto": "superas",
+   "inicio": 43.417,
+   "fin": 44.1
+  },
+  {
+   "texto": "a",
+   "inicio": 44.135,
+   "fin": 44.257
+  },
+  {
+   "texto": "la",
+   "inicio": 44.267,
+   "fin": 44.437
+  },
+  {
+   "texto": "Estatua",
+   "inicio": 44.452,
+   "fin": 44.864
+  },
+  {
+   "texto": "de",
+   "inicio": 44.9,
+   "fin": 45.07
+  },
+  {
+   "texto": "la",
+   "inicio": 45.084,
+   "fin": 45.254
+  },
+  {
+   "texto": "Libertad,",
+   "inicio": 45.269,
+   "fin": 45.73
+  },
+  {
+   "texto": "sin",
+   "inicio": 45.77,
+   "fin": 45.988
+  },
+  {
+   "texto": "contar",
+   "inicio": 46.007,
+   "fin": 46.371
+  },
+  {
+   "texto": "su",
+   "inicio": 46.402,
+   "fin": 46.572
+  },
+  {
+   "texto": "base.",
+   "inicio": 46.587,
+   "fin": 46.854
+  },
+  {
+   "texto": "Día",
+   "inicio": 46.877,
+   "fin": 47.095
+  },
+  {
+   "texto": "ocho:",
+   "inicio": 47.114,
+   "fin": 47.671
+  },
+  {
+   "texto": "cuatrocientos",
+   "inicio": 47.694,
+   "fin": 48.617
+  },
+  {
+   "texto": "treinta",
+   "inicio": 48.678,
+   "fin": 49.091
+  },
+  {
+   "texto": "y",
+   "inicio": 49.127,
+   "fin": 49.248
+  },
+  {
+   "texto": "cinco",
+   "inicio": 49.258,
+   "fin": 49.574
+  },
+  {
+   "texto": "metros.",
+   "inicio": 49.601,
+   "fin": 49.965
+  },
+  {
+   "texto": "Ya",
+   "inicio": 49.996,
+   "fin": 50.166
+  },
+  {
+   "texto": "pasaste",
+   "inicio": 50.181,
+   "fin": 50.863
+  },
+  {
+   "texto": "la",
+   "inicio": 50.899,
+   "fin": 51.069
+  },
+  {
+   "texto": "Torre",
+   "inicio": 51.084,
+   "fin": 51.399
+  },
+  {
+   "texto": "Eiffel.",
+   "inicio": 51.426,
+   "fin": 51.79
+  },
+  {
+   "texto": "Día",
+   "inicio": 51.822,
+   "fin": 52.04
+  },
+  {
+   "texto": "nueve:",
+   "inicio": 52.059,
+   "fin": 52.674
+  },
+  {
+   "texto": "ochocientos",
+   "inicio": 52.702,
+   "fin": 53.508
+  },
+  {
+   "texto": "setenta",
+   "inicio": 53.561,
+   "fin": 53.973
+  },
+  {
+   "texto": "metros,",
+   "inicio": 54.009,
+   "fin": 54.373
+  },
+  {
+   "texto": "más",
+   "inicio": 54.404,
+   "fin": 54.622
+  },
+  {
+   "texto": "alto",
+   "inicio": 54.641,
+   "fin": 54.908
+  },
+  {
+   "texto": "que",
+   "inicio": 54.931,
+   "fin": 55.15
+  },
+  {
+   "texto": "el",
+   "inicio": 55.169,
+   "fin": 55.338
+  },
+  {
+   "texto": "Burj",
+   "inicio": 55.353,
+   "fin": 55.62
+  },
+  {
+   "texto": "Khalifa.",
+   "inicio": 55.643,
+   "fin": 56.055
+  },
+  {
+   "texto": "Así",
+   "inicio": 56.091,
+   "fin": 56.309
+  },
+  {
+   "texto": "se",
+   "inicio": 56.328,
+   "fin": 56.498
+  },
+  {
+   "texto": "dispara:",
+   "inicio": 56.513,
+   "fin": 57.175
+  },
+  {
+   "texto": "cada",
+   "inicio": 57.211,
+   "fin": 57.478
+  },
+  {
+   "texto": "barra",
+   "inicio": 57.501,
+   "fin": 58.056
+  },
+  {
+   "texto": "es",
+   "inicio": 58.084,
+   "fin": 58.253
+  },
+  {
+   "texto": "el",
+   "inicio": 58.268,
+   "fin": 58.438
+  },
+  {
+   "texto": "doble",
+   "inicio": 58.453,
+   "fin": 58.768
+  },
+  {
+   "texto": "de",
+   "inicio": 58.795,
+   "fin": 58.965
+  },
+  {
+   "texto": "la",
+   "inicio": 58.98,
+   "fin": 59.15
+  },
+  {
+   "texto": "anterior.",
+   "inicio": 59.164,
+   "fin": 59.625
+  },
+  {
+   "texto": "Día",
+   "inicio": 59.665,
+   "fin": 59.884
+  },
+  {
+   "texto": "trece:",
+   "inicio": 59.903,
+   "fin": 60.478
+  },
+  {
+   "texto": "catorce",
+   "inicio": 60.505,
+   "fin": 61.147
+  },
+  {
+   "texto": "kilómetros.",
+   "inicio": 61.183,
+   "fin": 61.741
+  },
+  {
+   "texto": "Ya",
+   "inicio": 61.79,
+   "fin": 61.959
+  },
+  {
+   "texto": "pasaste",
+   "inicio": 61.974,
+   "fin": 62.656
+  },
+  {
+   "texto": "el",
+   "inicio": 62.692,
+   "fin": 62.862
+  },
+  {
+   "texto": "Everest",
+   "inicio": 62.877,
+   "fin": 63.289
+  },
+  {
+   "texto": "y",
+   "inicio": 63.325,
+   "fin": 63.446
+  },
+  {
+   "texto": "los",
+   "inicio": 63.457,
+   "fin": 63.675
+  },
+  {
+   "texto": "aviones.",
+   "inicio": 63.694,
+   "fin": 64.106
+  },
+  {
+   "texto": "Día",
+   "inicio": 64.142,
+   "fin": 64.36
+  },
+  {
+   "texto": "veintitrés:",
+   "inicio": 64.379,
+   "fin": 65.207
+  },
+  {
+   "texto": "ya",
+   "inicio": 65.256,
+   "fin": 65.425
+  },
+  {
+   "texto": "eres",
+   "inicio": 65.44,
+   "fin": 65.917
+  },
+  {
+   "texto": "más",
+   "inicio": 65.94,
+   "fin": 66.158
+  },
+  {
+   "texto": "grande",
+   "inicio": 66.177,
+   "fin": 66.541
+  },
+  {
+   "texto": "que",
+   "inicio": 66.573,
+   "fin": 66.791
+  },
+  {
+   "texto": "la",
+   "inicio": 66.81,
+   "fin": 66.98
+  },
+  {
+   "texto": "Tierra",
+   "inicio": 66.994,
+   "fin": 67.358
+  },
+  {
+   "texto": "entera.",
+   "inicio": 67.39,
+   "fin": 67.754
+  },
+  {
+   "texto": "Día",
+   "inicio": 67.785,
+   "fin": 68.263
+  },
+  {
+   "texto": "veintiocho:",
+   "inicio": 68.282,
+   "fin": 69.07
+  },
+  {
+   "texto": "tu",
+   "inicio": 69.119,
+   "fin": 69.288
+  },
+  {
+   "texto": "cabeza",
+   "inicio": 69.303,
+   "fin": 69.667
+  },
+  {
+   "texto": "pasa",
+   "inicio": 69.699,
+   "fin": 69.965
+  },
+  {
+   "texto": "la",
+   "inicio": 69.989,
+   "fin": 70.158
+  },
+  {
+   "texto": "Luna.",
+   "inicio": 70.173,
+   "fin": 70.7
+  },
+  {
+   "texto": "Día",
+   "inicio": 70.723,
+   "fin": 70.941
+  },
+  {
+   "texto": "treinta:",
+   "inicio": 70.96,
+   "fin": 71.603
+  },
+  {
+   "texto": "casi",
+   "inicio": 71.638,
+   "fin": 71.905
+  },
+  {
+   "texto": "dos",
+   "inicio": 71.928,
+   "fin": 72.147
+  },
+  {
+   "texto": "millones",
+   "inicio": 72.166,
+   "fin": 72.626
+  },
+  {
+   "texto": "de",
+   "inicio": 72.666,
+   "fin": 72.836
+  },
+  {
+   "texto": "kilómetros.",
+   "inicio": 72.851,
+   "fin": 73.699
+  },
+  {
+   "texto": "Eres",
+   "inicio": 73.747,
+   "fin": 74.014
+  },
+  {
+   "texto": "más",
+   "inicio": 74.037,
+   "fin": 74.255
+  },
+  {
+   "texto": "grande",
+   "inicio": 74.274,
+   "fin": 74.638
+  },
+  {
+   "texto": "que",
+   "inicio": 74.67,
+   "fin": 74.888
+  },
+  {
+   "texto": "el",
+   "inicio": 74.907,
+   "fin": 75.077
+  },
+  {
+   "texto": "Sol.",
+   "inicio": 75.092,
+   "fin": 75.63
+  },
+  {
+   "texto": "Crecimiento",
+   "inicio": 75.649,
+   "fin": 76.255
+  },
+  {
+   "texto": "exponencial:",
+   "inicio": 76.308,
+   "fin": 77.114
+  },
+  {
+   "texto": "más",
+   "inicio": 77.167,
+   "fin": 77.385
+  },
+  {
+   "texto": "de",
+   "inicio": 77.404,
+   "fin": 77.574
+  },
+  {
+   "texto": "mil",
+   "inicio": 77.589,
+   "fin": 77.807
+  },
+  {
+   "texto": "millones",
+   "inicio": 77.826,
+   "fin": 78.287
+  },
+  {
+   "texto": "de",
+   "inicio": 78.327,
+   "fin": 78.496
+  },
+  {
+   "texto": "veces",
+   "inicio": 78.511,
+   "fin": 78.826
+  },
+  {
+   "texto": "más",
+   "inicio": 78.854,
+   "fin": 79.072
+  },
+  {
+   "texto": "grande.",
+   "inicio": 79.091,
+   "fin": 79.705
+  },
+  {
+   "texto": "Aun",
+   "inicio": 79.737,
+   "fin": 79.955
+  },
+  {
+   "texto": "así,",
+   "inicio": 79.974,
+   "fin": 80.192
+  },
+  {
+   "texto": "tu",
+   "inicio": 80.211,
+   "fin": 80.381
+  },
+  {
+   "texto": "abuela",
+   "inicio": 80.396,
+   "fin": 80.759
+  },
+  {
+   "texto": "seguiría",
+   "inicio": 80.791,
+   "fin": 81.252
+  },
+  {
+   "texto": "gritando",
+   "inicio": 81.292,
+   "fin": 81.753
+  },
+  {
+   "texto": "desde",
+   "inicio": 81.793,
+   "fin": 82.108
+  },
+  {
+   "texto": "su",
+   "inicio": 82.135,
+   "fin": 82.305
+  },
+  {
+   "texto": "cocina:",
+   "inicio": 82.32,
+   "fin": 82.884
+  },
+  {
+   "texto": "¡Mijo,",
+   "inicio": 82.915,
+   "fin": 83.182
+  },
+  {
+   "texto": "baja",
+   "inicio": 83.205,
+   "fin": 83.472
+  },
+  {
+   "texto": "ya",
+   "inicio": 83.495,
+   "fin": 83.665
+  },
+  {
+   "texto": "a",
+   "inicio": 83.68,
+   "fin": 83.801
+  },
+  {
+   "texto": "cenar!",
+   "inicio": 83.811,
+   "fin": 84.127
+  },
+  {
+   "texto": "Cuéntame",
+   "inicio": 84.154,
+   "fin": 84.935
+  },
+  {
+   "texto": "en",
+   "inicio": 84.975,
+   "fin": 85.145
+  },
+  {
+   "texto": "los",
+   "inicio": 85.159,
+   "fin": 85.378
+  },
+  {
+   "texto": "comentarios",
+   "inicio": 85.397,
+   "fin": 86.003
+  },
+  {
+   "texto": "qué",
+   "inicio": 86.056,
+   "fin": 86.274
+  },
+  {
+   "texto": "pregunta",
+   "inicio": 86.293,
+   "fin": 86.754
+  },
+  {
+   "texto": "imposible",
+   "inicio": 86.794,
+   "fin": 87.303
+  },
+  {
+   "texto": "sigue.",
+   "inicio": 87.347,
+   "fin": 87.663
+  }
+ ]
+}

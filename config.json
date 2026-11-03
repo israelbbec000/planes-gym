@@ -1,0 +1,63 @@
+{
+  "voz": {
+    "modo": "grabada",
+    "archivo": "voz.mp3",
+    "elevenlabs": {
+      "voice_id": "PON_AQUI_EL_VOICE_ID",
+      "model_id": "eleven_multilingual_v2",
+      "stability": 0.45,
+      "similarity_boost": 0.75,
+      "style": 0.35,
+      "speed": 1.0
+    },
+    "placeholder": {
+      "motor": "espeak-ng",
+      "voz": "es-419",
+      "palabras_por_minuto": 205,
+      "tono": 55
+    }
+  },
+  "video": {
+    "ancho": 1080,
+    "alto": 1920,
+    "fps": 30,
+    "duracion_minima_s": 60,
+    "duracion_objetivo_s": [70, 100],
+    "cola_final_s": 1.2
+  },
+  "guion": {
+    "palabras_min": 180,
+    "palabras_max": 250
+  },
+  "whisper": {
+    "modelo": "small",
+    "idioma": "es",
+    "dispositivo": "cpu",
+    "compute_type": "int8",
+    "permitir_estimado_si_falla": true
+  },
+  "audio": {
+    "volumen_voz": 1.0,
+    "volumen_musica": 0.1,
+    "volumen_sfx": 0.55,
+    "musica": "assets/musica/loop_curioso.wav",
+    "objetivo_lufs": -16,
+    "pico_maximo_dbfs": -1.0
+  },
+  "render": {
+    "navegador": null,
+    "concurrencia": null,
+    "crf": 18
+  },
+  "subtitulos": {
+    "palabras_por_bloque": 3,
+    "color_clave_defecto": "amarillo"
+  },
+  "tiktok": {
+    "modo_subida": "borrador",
+    "permitir_publico": false,
+    "etiquetar_contenido_ia": true,
+    "puerto_oauth": 8765,
+    "zona_horaria": "America/Mexico_City"
+  }
+}

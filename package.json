@@ -1,0 +1,30 @@
+{
+  "name": "videos-que-pasaria-si",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pipeline semiautomático de videos 2D '¿Y si…?' para TikTok con subagentes de Claude Code",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "episodio:nuevo": "node scripts/episodio.mjs nuevo",
+    "tts": "node scripts/tts.mjs",
+    "whisper": "python3 scripts/transcribir.py",
+    "audio": "node scripts/audio.mjs",
+    "render": "node scripts/render.mjs",
+    "verificar": "node scripts/verificar.mjs",
+    "tiktok": "node scripts/tiktok.mjs",
+    "historial": "node scripts/historial.mjs",
+    "assets": "node scripts/generar-assets.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+.env
+.tiktok-tokens.json
+out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Archivos pesados intermedios de cada episodio
+episodios/*/tmp/
+episodios/*/video_mudo.mp4

@@ -1,0 +1,17 @@
+{
+  "id": "protagonista",
+  "viewBox": [
+    400,
+    640
+  ],
+  "pivotes": {
+    "brazo_i": [
+      105,
+      340
+    ],
+    "brazo_d": [
+      295,
+      340
+    ]
+  }
+}
