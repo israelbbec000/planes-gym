@@ -1,9 +1,9 @@
 {
   "voz": {
-    "modo": "grabada",
+    "modo": "elevenlabs",
     "archivo": "voz.mp3",
     "elevenlabs": {
-      "voice_id": "PON_AQUI_EL_VOICE_ID",
+      "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
       "model_id": "eleven_multilingual_v2",
       "stability": 0.45,
       "similarity_boost": 0.75,
