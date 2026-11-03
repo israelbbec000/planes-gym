@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "titulo": "¿Y si pudieras viajar al pasado cuando quisieras?",
+  "tema": "Viajes al pasado y paradojas temporales (intro)",
+  "frases": [
+    {
+      "id": 1,
+      "texto": "Mañana podrías viajar al pasado.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "sorpresa",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1,
+        "hasta": 1.2,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "pop"
+      ],
+      "claves": [
+        {
+          "texto": "pasado",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 2,
+      "texto": "Sin máquina del tiempo y sin permiso.",
+      "escena": "cuarto",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "senala",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "paneo",
+        "desde": -60,
+        "hasta": 60,
+        "zoom": 1.15
+      },
+      "sfx": [
+        "whoosh"
+      ],
+      "claves": [
+        "permiso"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 3,
+      "texto": "Solo tú, un botón y todo el ayer a tu disposición.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "feliz",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.05,
+        "hasta": 1.25,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "ding"
+      ],
+      "claves": [
+        "botón"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 4,
+      "texto": "¿Parece genial, verdad?",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "piensa",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.2,
+        "hasta": 1,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "tick"
+      ],
+      "claves": [
+        "genial"
+      ],
+      "grafica": null
+    },
+    {
+      "id": 5,
+      "texto": "Pues aguanta, porque la física tiene opiniones.",
+      "escena": "ciudad",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "grita",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1,
+        "hasta": 1.22,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "trombon"
+      ],
+      "claves": [
+        {
+          "texto": "física",
+          "color": "rojo"
+        }
+      ],
+      "grafica": null
+    },
+    {
+      "id": 6,
+      "texto": "Esto pasaría si pudieras viajar al pasado cuando quisieras.",
+      "escena": "espacio",
+      "personajes": [
+        {
+          "id": "protagonista",
+          "pos": "centro",
+          "accion": "idle",
+          "escala": 1.1,
+          "habla": true
+        }
+      ],
+      "camara": {
+        "tipo": "zoom",
+        "desde": 1.1,
+        "hasta": 1,
+        "foco": [
+          540,
+          760
+        ]
+      },
+      "sfx": [
+        "tada"
+      ],
+      "claves": [
+        "pasado"
+      ],
+      "grafica": null
+    }
+  ]
+}
