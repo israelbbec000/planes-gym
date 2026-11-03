@@ -6,7 +6,7 @@
     {
       "id": 1,
       "texto": "Mañana podrías viajar al pasado.",
-      "escena": "cuarto",
+      "escena": "laboratorio",
       "personajes": [
         {
           "id": "protagonista",
@@ -39,7 +39,7 @@
     {
       "id": 2,
       "texto": "Sin máquina del tiempo y sin permiso.",
-      "escena": "cuarto",
+      "escena": "laboratorio",
       "personajes": [
         {
           "id": "protagonista",
@@ -66,7 +66,7 @@
     {
       "id": 3,
       "texto": "Solo tú, un botón y todo el ayer a tu disposición.",
-      "escena": "espacio",
+      "escena": "tunel_tiempo",
       "personajes": [
         {
           "id": "protagonista",
@@ -96,7 +96,7 @@
     {
       "id": 4,
       "texto": "¿Parece genial, verdad?",
-      "escena": "ciudad",
+      "escena": "ciudad_tiempo",
       "personajes": [
         {
           "id": "protagonista",
@@ -126,7 +126,7 @@
     {
       "id": 5,
       "texto": "Pues aguanta, porque la física tiene opiniones.",
-      "escena": "ciudad",
+      "escena": "ciudad_tiempo",
       "personajes": [
         {
           "id": "protagonista",
@@ -159,7 +159,7 @@
     {
       "id": 6,
       "texto": "Esto pasaría si pudieras viajar al pasado cuando quisieras.",
-      "escena": "espacio",
+      "escena": "reloj_cosmos",
       "personajes": [
         {
           "id": "protagonista",
